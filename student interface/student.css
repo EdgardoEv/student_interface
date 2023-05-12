@@ -1,0 +1,135 @@
+.navbar{
+    position: absolute;
+width: 1437px;
+height: 145px;
+left: calc(50% - 1440px/2);
+top: -2px;
+
+background: #FFEBEB;
+border: 1px solid #000000;
+}
+.background{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1440px;
+    height: 881px;
+    left: calc(50% - 1440px/2);
+    top: 143px;
+    
+    background: #D9D9D9;
+    mix-blend-mode: normal;
+    border: 1px solid #000000;
+}
+.box1 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 1172px;
+height: 156px;
+left: calc(50% - 1172px/2);
+top: 283px;
+
+background: #0FD0B9;
+border: 3px solid #000000;
+}
+.box2 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 1172px;
+height: 156px;
+left: calc(50% - 1172px/2);
+top: 486px;
+
+background: #0FD0B9;
+border: 3px solid #000000;
+}
+.box3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 1172px;
+height: 156px;
+left: calc(50% - 1172px/2);
+top: 689px;
+
+background: #0FD0B9;
+border: 3px solid #000000;
+}
+h1{
+position: absolute;
+width: 222px;
+height: 77px;
+left: calc(50% - 250px/2);
+top: -10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+
+color: #000000;
+}
+.image1 {
+position: absolute;
+width: 97px;
+height: 128px;
+left: calc(50% - 550px);
+top: 297px;
+}
+.image2 {
+position: absolute;
+width: 97px;
+height: 128px;
+left: calc(50% - 550px);
+top: 500px;
+}
+.image3 {
+position: absolute;
+width: 97px;
+height: 128px;
+left: calc(50% - 550px);
+top: 703px;
+}
+.line1 input[type=button]{
+    position: absolute;
+width: 80px;
+height: 0px;
+left: calc(50% - 700px);
+top: 52px;
+background-color: #000000;
+
+}
+.line2 input[type=button]{
+    position: absolute;
+    width: 80px;
+    height: 0px;
+    left: calc(50% - 700px);
+    top: 71px;
+    background-color: #000000;
+}
+.line3 input[type=button]{
+    position: absolute;
+    width: 80px;
+    height: 0px;
+    left: calc(50% - 700px);
+    top: 90px;
+    background-color: #000000;
+}
+.search input[type=search] {
+    box-sizing: border-box;
+
+position: absolute;
+width: 202px;
+height: 38px;
+left: calc(50% - -1000px/2);
+top: 52px;
+
+background: rgba(255, 255, 255, 0.89);
+border: 2px solid #000000;
+border-radius: 10px;
+text-align: center;
+}
